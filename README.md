@@ -3,6 +3,10 @@
 A complete machine learning pipeline for sentiment analysis with speech-to-text capabilities and an interactive GUI.
 
 
+https://github.com/user-attachments/assets/f7b7603b-4c94-4229-8417-99c3a4dc48a0
+
+
+
 ## 👥 Team
 
 - **BITF22M036**: zara zainab
